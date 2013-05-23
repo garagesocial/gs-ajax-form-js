@@ -85,8 +85,6 @@
       /* Merge objects */
       data = $.extend(form_data, add_data);
 
-      console.log(data);
-
       $.ajax({
         type: 'POST',
         url: base.target_url,
