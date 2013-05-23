@@ -152,7 +152,7 @@
       }
     };
 
-    // Run initializer
+    /* Run initializer */
     base.init();
   };
 
