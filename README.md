@@ -109,4 +109,8 @@ $("#my-form").gs_ajax_form({
     target_url: 'http://host/submit.php',
     redirect_url_on_error: 'http://host/redirect'
 });
-``
+```
+
+### Original Contributors
+*  Maxime Rassi
+*  Alexis Camus
